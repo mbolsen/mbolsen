@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
 <h3 align="center">A fun engineer that enjoys finding solutions to odd problems</h3>
-- ⚡ Fun fact **I like to be outside when I am not on my computer.  I enjoy projects that bring the real word and the digital word together.**
+**I like to be outside when I am not on my computer.  I enjoy projects that bring the real word and the digital word together.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
